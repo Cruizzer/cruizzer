@@ -96,5 +96,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hansel-dcruz" target="_blank" rel="noreferrer"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
+<a href="https://discord.com/users/cruizzer" target="_blank" rel="noreferrer"><img alt="Discord" title="Discord" height="48" width="48" src="assets/discord.svg"></a>
   <a href="mailto:hanseldcruz@protonmail.com" target="_blank" rel="noreferrer"><img alt="ProtonMail" title="ProtonMail" height="48" width="48" src="assets/protonmail.svg"></a>
 </p>
