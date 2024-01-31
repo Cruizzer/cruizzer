@@ -3,7 +3,7 @@
 
 ## Projects I have worked on:
 
-### [Redacted] Language Dictionary
+### Konkani Language Dictionary
 - Developed a user-friendly foreign language dictionary and web app using React, Redux State Management, and MongoDB.
 - Implemented secure back-end authentication, authorization, and routing to protect user data and enhance application security.
 - Demonstrated skills in database management and project deployment with Git. 🚀
@@ -26,4 +26,4 @@
 
 ## About Me
 
-I am a passionate and proactive computer science enthusiast, currently pursuing a BSc in Computer Science at [Your University]. With a solid foundation in web development and a keen interest in cutting-edge technologies, I am excited to contribute to innovative projects and explore new challenges in the software development field. 🚀
+I am a passionate and proactive computer science enthusiast, currently pursuing a BSc in Computer Science at the University of Leeds. With a solid foundation in web development and a keen interest in cutting-edge technologies, I am excited to contribute to innovative projects and explore new challenges in the software development field. 🚀
