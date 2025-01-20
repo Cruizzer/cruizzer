@@ -5,7 +5,7 @@
 <h2> About Me </h2>
 
 <p>
-  I am a computer science enthusiast, currently in my second year pursuing a BSc in Computer Science at the University of Leeds. I have an interest in web development and cutting-edge technologies, I am excited to contribute to innovative projects and explore new challenges in the software development field. 🚀
+  I'm currently in my penultimate year pursuing a BSc in Computer Science at the University of Leeds. I have an interest in web development, low-level programming, scripting and a lot more technologies. I'm excited to contribute to innovative projects that I find interesting and explore new challenges in software. 🚀
 </p>
 
 <h2> Projects </h2>
