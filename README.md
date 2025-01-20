@@ -10,26 +10,26 @@
 
 <h2> Projects </h2>
 
-<h3> Konkani Language Dictionary </h3>
+<h3> Konkani Language Dictionary 🌐</h3>
 <ul>
-  <li>Developed a user-friendly foreign language dictionary and web app using React, Redux State Management, and MongoDB. 🌐</li>
-  <li>Implemented secure back-end authentication, authorization, and routing to protect user data and enhance application security. 🔒</li>
-  <li>Demonstrated skills in database management and project deployment with Git. 🚀</li>
+  <li>Developed a user-friendly foreign language dictionary and web app using React, Redux State Management, and MongoDB.</li>
+  <li>Implemented secure back-end authentication, authorization, and routing to protect user data and enhance application security.</li>
+  <li>Demonstrated skills in database management and project deployment with Git.</li>
 </ul>
 
-<h3> Pathfinding Algorithm Simulator </h3>
+<h3> Pathfinding Algorithm Simulator 🔒</h3>
 <ul>
-  <li>Designed and built a maze-generation visualization web app for an A-Level project. 🧠</li>
-  <li>Utilized A*, Dijkstra's, and DFS algorithms to develop dynamic, real-time traversals with custom CSS animations. 🎨</li>
-  <li>Demonstrated algorithm implementation, UI design, and real-time data visualization skills. 🚀</li>
+  <li>Designed and built a maze-generation visualization web app for an A-Level project.</li>
+  <li>Utilized A*, Dijkstra's, and DFS algorithms to develop dynamic, real-time traversals with custom CSS animations.</li>
+  <li>Demonstrated algorithm implementation, UI design, and real-time data visualization skills.</li>
 </ul>
 
-<h3> Website Development - Various Frameworks </h3>
+<h3> Website Development - Various Frameworks 🚀</h3>
 <ul>
   <li>Flask and Django:
     <ul>
-      <li>Designed Flask frontend for an AI-trained language translation model for Latin. 🌐</li>
-      <li>Created a website with dynamically deployed content using the Django framework. 🚀</li>
+      <li>Designed Flask frontend for an AI-trained language translation model for Latin.</li>
+      <li>Created a website with dynamically deployed content using the Django framework.</li>
     </ul>
   </li>
   <li>NextJS:
