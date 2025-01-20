@@ -5,7 +5,7 @@
 <h2> About Me </h2>
 
 <p>
-  I'm currently in my penultimate year pursuing a BSc in Computer Science at the University of Leeds. I have an interest in web development, low-level programming, scripting and a lot more technologies. I'm excited to contribute to innovative projects that I find interesting and explore new challenges in software. 🚀
+  I'm currently in my penultimate year pursuing a BSc in Computer Science at the University of Leeds. I have an interest in web development, low-level programming, scripting and a lot more technologies. I'm excited to contribute to innovative projects that I find interesting and explore new challenges in software.
 </p>
 
 <h2> Projects </h2>
@@ -34,17 +34,17 @@
   </li>
   <li>NextJS:
     <ul>
-      <li>Developed a website with TypeScript, MongoDB, Tailwind, and Next App Router, implementing routing and data-fetching, and authentication using Google OAuth. Used SSR and SSG to optimize performance and SEO. 🚀</li>
+      <li>Developed a website with TypeScript, MongoDB, Tailwind, and Next App Router, implementing routing and data-fetching, and authentication using Google OAuth. Used SSR and SSG to optimize performance and SEO.</li>
     </ul>
   </li>
   <li>HTML5, CSS3, Bootstrap:
     <ul>
-      <li>Created basic static websites for school projects and friends. 🌐</li>
+      <li>Created basic static websites for school projects and friends.</li>
     </ul>
   </li>
   <li>Wordpress:
     <ul>
-      <li>Designed a Wordpress website for a company using themes, plugins, and custom CSS. 🌐</li>
+      <li>Designed a Wordpress website for a company using themes, plugins, and custom CSS.</li>
     </ul>
   </li>
 </ul>
