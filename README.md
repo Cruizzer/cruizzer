@@ -5,7 +5,7 @@
 <h2> About Me </h2>
 
 <p>
-  I'm currently in my final year pursuing a BSc in Computer Science at the University of Leeds. I have an interest in web development, low-level programming, scripting and a lot more technologies. I'm excited to contribute to projects that I find interesting and explore new challenges in software.
+  I'm currently in my final year pursuing a BSc in Computer Science at the University of Leeds. I have an interest in web development, low-level programming, scripting and a lot more technologies. I am also interested in competitive programming, particularly Codeforces and have taken a recent interest in graphics programming. I'm excited to contribute to open-source projects that I find interesting and explore new challenges in software.
 </p>
 
 <h2> Projects </h2>
