@@ -1,6 +1,6 @@
 <h1> Hello and Welcome 👋 I'm Cruizzer. </h1>
 
-<img src="assets/github-header-image-1.png" alt="Banner that greets incoming guests">
+<img src="assets/github-header-image.png" alt="Banner that greets incoming guests">
 
 <h2> About Me </h2>
 
