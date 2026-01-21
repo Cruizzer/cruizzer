@@ -1,4 +1,4 @@
-<h1> Hello and Welcome 👋 I'm Cruizzer. </h1>
+<h1> Hello and Welcome, I'm Hansel. </h1>
 
 <img src="assets/github-header-image.png" alt="Banner that greets incoming guests">
 
