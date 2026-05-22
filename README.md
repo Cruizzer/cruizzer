@@ -1,7 +1,9 @@
-<h1>Hansel D'Cruz</h1>
+<h1>Hello, I'm Hansel.</h1>
+
+<img src="assets/github-header-image.png" alt="Hansel D'Cruz">
 
 <p>
-  BSc Computer Science (with Year in Industry), University of Leeds; graduating July 2026.
+  BSc Computer Science (with Year in Industry), University of Leeds &mdash; graduating July 2025.
   I have a particular interest in systems programming, algorithms, and building well-engineered software.
   Currently exploring graphics programming and competitive programming on the side.
 </p>
@@ -37,8 +39,6 @@
   <strong>Databases:</strong> PostgreSQL, MongoDB, SQLite, Redis, Prisma ORM<br>
   <strong>Tools:</strong> Git, Docker, Linux, CMake, CI/CD, REST APIs, Agile/Scrum
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cruizzer&layout=compact&hide_border=true" style="width: 100%;">
 
 <h2>Contact</h2>
 
