@@ -3,7 +3,7 @@
 <img src="assets/github-header-image.png" alt="Hansel D'Cruz">
 
 <p>
-  BSc Computer Science (with Year in Industry), University of Leeds &mdash; graduating July 2025.
+  BSc Computer Science (with Year in Industry), University of Leeds; graduating July 2026.
   I have a particular interest in systems programming, algorithms, and building well-engineered software.
   Currently exploring graphics programming and competitive programming on the side.
 </p>
